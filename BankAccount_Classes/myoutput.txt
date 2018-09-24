@@ -1,0 +1,20 @@
+
+		Database of Bank Accounts
+
+ 123456  $ 200.55	    Matthew Fitzgerald 135643465 Savings
+ 567890  $1234.56	         Danny Carlson 134537653 Savings
+ 987654  $   2.33	             Joe Smith 111447777      CD
+ 222222  $5000.00	        Brown McDonald 883567324 Checking
+ 333333  $ 999.99	          Denise Jones 111223333 Checking
+ 444444  $   0.00	         Henry McBroke 222334444      CD
+
+
+		Database of Bank Accounts
+
+ 123456  $ 200.55	    Matthew Fitzgerald 135643465 Savings
+ 567890  $1234.56	         Danny Carlson 134537653 Savings
+ 987654  $   2.33	             Joe Smith 111447777      CD
+ 222222  $5000.00	        Brown McDonald 883567324 Checking
+ 333333  $ 999.99	          Denise Jones 111223333 Checking
+ 444444  $   0.00	         Henry McBroke 222334444      CD
+
